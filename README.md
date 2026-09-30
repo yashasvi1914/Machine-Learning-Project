@@ -1,4 +1,5 @@
 # Machine-Learning-Project
-This Repo contain my Machine Learning Projects
+Practical machine learning projects covering preprocessing,
+EDA, feature engineering, classification and regression.
 <br>
 Author - Yahasvi Choudhary
